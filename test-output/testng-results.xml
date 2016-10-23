@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21223" started-at="2016-10-12T20:49:55Z" finished-at="2016-10-12T20:50:16Z">
+  <suite name="Default suite" duration-ms="39748" started-at="2016-10-22T21:07:14Z" finished-at="2016-10-22T21:07:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21223" started-at="2016-10-12T20:49:55Z" finished-at="2016-10-12T20:50:16Z">
-      <class name="com.Interview.links.PopupTestNaukari">
-        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.Interview.links.PopupTestNaukari@20e2cbe0]" name="startBrowser" is-config="true" duration-ms="16903" started-at="2016-10-13T02:19:55Z" finished-at="2016-10-13T02:20:12Z">
+    <test name="Default test" duration-ms="39748" started-at="2016-10-22T21:07:14Z" finished-at="2016-10-22T21:07:54Z">
+      <class name="com.Interview.links.DragAndDrop">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Interview.links.DragAndDrop@4f933fd1]" name="setup" duration-ms="39709" started-at="2016-10-23T02:37:14Z" finished-at="2016-10-23T02:37:54Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- startBrowser -->
-        <test-method status="PASS" signature="testPopup()[pri:0, instance:com.Interview.links.PopupTestNaukari@20e2cbe0]" name="testPopup" duration-ms="1244" started-at="2016-10-13T02:20:12Z" finished-at="2016-10-13T02:20:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPopup -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.Interview.links.PopupTestNaukari@20e2cbe0]" name="closeDriver" is-config="true" duration-ms="3043" started-at="2016-10-13T02:20:13Z" finished-at="2016-10-13T02:20:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeDriver -->
-      </class> <!-- com.Interview.links.PopupTestNaukari -->
+        </test-method> <!-- setup -->
+      </class> <!-- com.Interview.links.DragAndDrop -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
